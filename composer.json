@@ -2,6 +2,7 @@
     "name": "mison/car",
     "description": "car",
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "Misha Voituk",
