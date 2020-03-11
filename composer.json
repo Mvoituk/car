@@ -1,7 +1,7 @@
 {
     "name": "mison/car",
     "description": "car",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
